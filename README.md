@@ -1,6 +1,8 @@
 # Vegetative Emacs Theme
 
-A Theme based on green CRT terminals
+An Emacs theme based on green CRT terminals
+
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-vegetative/images/image.png)
 
 ## Installation
 
