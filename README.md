@@ -101,4 +101,4 @@ If you're making Emacs themes, try it.
 
 ### Forked from Creamsody
 
-It's the excessively cyan fork of Creamsody, inspired by old green monochrome CRT Terminals.
+Inspired by old green monochrome CRT Terminals.
