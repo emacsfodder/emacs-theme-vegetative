@@ -14,23 +14,25 @@ M-x package-install emacs-theme-vegetative
 
 ## Screenshots
 
-![](https://github.com/emacsfodder/emacs-theme-vegetative/blob/images/vegetative-00001.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-vegetative/images/vegetative-00001.png)
 
-![](https://github.com/emacsfodder/emacs-theme-vegetative/blob/images/vegetative-00002.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-vegetative/images/vegetative-00002.png)
 
-![](https://github.com/emacsfodder/emacs-theme-vegetative/blob/images/vegetative-00003.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-vegetative/images/vegetative-00003.png)
 
-![](https://github.com/emacsfodder/emacs-theme-vegetative/blob/images/vegetative-00004.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-vegetative/images/vegetative-00004.png)
 
-![](https://github.com/emacsfodder/emacs-theme-vegetative/blob/images/vegetative-00005.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-vegetative/images/vegetative-00005.png)
 
-![](https://github.com/emacsfodder/emacs-theme-vegetative/blob/images/vegetative-00006.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-vegetative/images/vegetative-00006.png)
 
-## Autothemer
+## How it was made
 
-Vegetative uses autothemer.  It dramatically improves developer happiness when writing themes for Emacs.
+Vegetative was built with [Autothemer](https://github.com/jasonm23/autothemer)
+and [Kurecolor](https://github.com/emacsfodder/kurecolor). They dramatically
+improve developer happiness when writing themes for Emacs.
 
-If you're making Emacs themes, try it.
+If you're making Emacs themes you should check them out.
 
 ## Modes supported
 
