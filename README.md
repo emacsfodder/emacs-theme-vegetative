@@ -9,7 +9,7 @@ An Emacs theme based on green CRT terminals
 Vegetative installation
 
 ```sh
-M-x package-install emacs-theme-vegetative 
+M-x package-install vegetative-theme 
 ```
 
 ## Screenshots
