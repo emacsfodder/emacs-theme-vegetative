@@ -4,7 +4,7 @@
 
 ;; Authors: Jason Milkins <jasonm23@gmail.com>
 ;; URL: http://github.com/emacsfodder/emacs-theme-vegetative
-;; Version: 0.0.1
+;; Version: 1.0.1
 ;; Package-Requires: ((autothemer "0.2") (emacs "24"))
 
 ;;; License
@@ -773,6 +773,12 @@
   (magit-signature-untrusted                 (:foreground vegetative-bright-purple :weight 'bold))
   (magit-tag                                 (:foreground vegetative-accent-2))
   (magit-whitespace-warning-face             (:background vegetative-faded-red))
+  (markdown-header-face-1                    (:height 1.9 :inherit 'variable-pitch :foreground vegetative-foreground-4))
+  (markdown-header-face-2                    (:height 1.8 :inherit 'variable-pitch :foreground vegetative-foreground-3))
+  (markdown-header-face-3                    (:height 1.6 :inherit 'variable-pitch :foreground vegetative-foreground-2))
+  (markdown-header-face-4                    (:height 1.5 :inherit 'variable-pitch :foreground vegetative-foreground-1))
+  (markdown-header-face-5                    (:height 1.4 :inherit 'variable-pitch :foreground vegetative-foreground-0-soft))
+  (markdown-header-face-6                    (:height 1.3 :inherit 'variable-pitch :foreground vegetative-foreground-0))
   (match                                     (:foreground vegetative-foreground-0 :background vegetative-background-2))
   (mc/cursor-bar-face                        (:height 1 :background vegetative-black))
   (mc/cursor-face                            (:inverse-video t))

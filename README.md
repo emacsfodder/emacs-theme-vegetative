@@ -1,3 +1,5 @@
+[![MELPA](http://stable.melpa.org/packages/vegetative-theme-badge.svg)](http://stable.melpa.org/#/vegetative-theme) [![MELPA](http://melpa.org/packages/vegetative-theme-badge.svg)](http://melpa.org/#/vegetative-theme)
+
 # Vegetative Emacs Theme
 
 An Emacs theme based on green CRT terminals
